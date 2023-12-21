@@ -8,9 +8,9 @@ public class Main {
 		Scanner in= new Scanner(System.in);
 		System.out.println("entre your name.");
 		String name= in.nextLine();
-		System.out.println("what date is christmas");
+		System.out.println("what date is christmas?");
 		int date = in.nextInt();
-		System.out.println("what do you like 4 things for christmas?");
+		System.out.println("what do you like 3 things for christmas?");
 		String item1= in.nextLine();
 		String item2= in.nextLine();
 		String item3= in.nextLine();
